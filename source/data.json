@@ -1,0 +1,82 @@
+{
+    "fileLocations":["/VALORANT/Saved/Logs/ShooterGame.log", "/Riot Games/Riot Client/Config/lockfile"],
+    "apiVersion":["v3", "v1", "v4", "v1", "v1", "v1", "v1", "v1", "v1", "v1", "v1"],
+    "RankCooldown":10,
+    "MainRpcText":"Using Valoxpi",
+    "UpdateInterval":3,
+    "socketIds":{"variant":"3ad1b2b2-acdb-4524-852f-954a76ddae0a", "weaponSkin":"bcef87d6-209b-46c6-8b19-fbe40bd95abc", "buddy":"77258665-71d1-4623-bc72-44db9bd5b3b3"},
+    "TEAM_COLORS":{
+        "Blue":"50, 127, 186",
+        "Red":"194, 41, 69",
+        "Spectator":"79, 103, 128"
+    },
+    "TEAM_TEXTS":{
+        "Red":"ENEMY:#ff3838",
+        "Blue":"TEAMMATE:#50befa",
+        "Spectator":"SPECTATOR:#93a2ab"
+    },
+    "_rpcButtons":[ { "label": " ", "url": " " }, { "label": " ", "url": " "} ],
+    "lockfileEntries":["name","pid","port","password","protocol"],
+    "UserAgent":"ShooterGame/13 Windows/10.0.19043.1.256.64bit",
+    "ClientPlatform":"ew0KCSJwbGF0Zm9ybVR5cGUiOiAiUEMiLA0KCSJwbGF0Zm9ybU9TIjogIldpbmRvd3MiLA0KCSJwbGF0Zm9ybU9TVmVyc2lvbiI6ICIxMC4wLjE5MDQyLjEuMjU2LjY0Yml0IiwNCgkicGxhdGZvcm1DaGlwc2V0IjogIlVua25vd24iDQp9",
+    "rpcAppID":"897855427507793920",
+    "links":[
+        ["github","https://github.com/Zimehx/Valoxpi"],
+        ["twitter", "https://twitter.com/zimehx"],
+        ["youtube", "https://www.youtube.com/channel/UCzQLS2sTAPAYH7qyj0FXP3w"]
+    ],
+    "customPlayers":{
+        "hidden":[],
+        "color":{
+            "768e9910-57c9-5dce-b6d0-a607353c8123":"#40f5ff"
+        },
+        "cool":[],
+        "blocked":[]
+    },
+    "codenames":{
+        "Duality":"Bind",
+        "Poveglia":"Range",
+        "Ascent":"Ascent",
+        "Bonsai":"Split",
+        "Canyon":"Fracture",
+        "Foxtrot":"Breeze",
+        "Port":"Icebox",
+        "Triad":"Haven",
+        "competitive":"Competitive",
+        "spikerush":"Spike Rush",
+        "unrated":"Unrated",
+        "deathmatch":"Deathmatch",
+        "onefa":"Replication",
+        "ggteam":"Escalation",
+        "range":"The Range",
+        "custom":"Custom Game"
+    },
+    "ranks": [
+        "Unranked",
+        "Unranked",
+        "Unranked",
+        "Iron 1",
+        "Iron 2",
+        "Iron 3",
+        "Bronze 1",
+        "Bronze 2",
+        "Bronze 3",
+        "Silver 1",
+        "Silver 2",
+        "Silver 3",
+        "Gold 1",
+        "Gold 2",
+        "Gold 3",
+        "Platinum 1",
+        "Platinum 2",
+        "Platinum 3",
+        "Diamond 1",
+        "Diamond 2",
+        "Diamond 3",
+        "Immortal 1",
+        "Immortal 2",
+        "Immortal 3",
+        "Radiant"
+    ],
+    "parties": ["#ff6161","#ffd061","#61ffdf","#ff3bf8","#ff618b","#5468ff","#70ff40","#ffd6d6"]
+}
