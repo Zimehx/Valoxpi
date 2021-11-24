@@ -26,11 +26,8 @@
         ["youtube", "https://www.youtube.com/channel/UCzQLS2sTAPAYH7qyj0FXP3w"]
     ],
     "customPlayers":{
-        "hidden":[],
-        "color":{
-            "768e9910-57c9-5dce-b6d0-a607353c8123":"#40f5ff"
-        },
-        "cool":[],
+        "values":["color","isHidden","glow", "xp"],
+        "768e9910-57c9-5dce-b6d0-a607353c8123":["#40f5ff", true, true],
         "blocked":[]
     },
     "codenames":{
