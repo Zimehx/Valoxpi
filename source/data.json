@@ -4,6 +4,7 @@
     "RankCooldown":10,
     "MainRpcText":"Using Valoxpi",
     "UpdateInterval":3,
+    "pregameIncognito":false,
     "socketIds":{"variant":"3ad1b2b2-acdb-4524-852f-954a76ddae0a", "weaponSkin":"bcef87d6-209b-46c6-8b19-fbe40bd95abc", "buddy":"77258665-71d1-4623-bc72-44db9bd5b3b3"},
     "TEAM_COLORS":{
         "Blue":"50, 127, 186",
@@ -27,7 +28,7 @@
     ],
     "customPlayers":{
         "values":["color","isHidden","glow", "xp"],
-        "768e9910-57c9-5dce-b6d0-a607353c8123":["#40f5ff", true, true],
+        "_768e9910-57c9-5dce-b6d0-a607353c8123":["#40f5ff", true, true, true],
         "blocked":[]
     },
     "codenames":{
