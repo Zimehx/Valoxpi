@@ -6,7 +6,7 @@
     "UpdateInterval":3,
     "pregameIncognito":false,
     "HistoryLength":12,
-    "lbSize":300,
+    "lbSize":500,
     "socketIds":{"variant":"3ad1b2b2-acdb-4524-852f-954a76ddae0a", "weaponSkin":"bcef87d6-209b-46c6-8b19-fbe40bd95abc", "buddy":"77258665-71d1-4623-bc72-44db9bd5b3b3"},
     "TEAM_COLORS":{
         "Blue":"50, 127, 186",
