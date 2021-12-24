@@ -1,7 +1,7 @@
 {
     "fileLocations":["/VALORANT/Saved/Logs/ShooterGame.log", "/Riot Games/Riot Client/Config/lockfile"],
     "apiVersion":["v3", "v1", "v4", "v1", "v1", "v1", "v1", "v1", "v1", "v1", "v1"],
-    "RankCooldown":10,
+    "RankCooldown":5,
     "MainRpcText":"Using Valoxpi",
     "UpdateInterval":3,
     "pregameIncognito":false,
