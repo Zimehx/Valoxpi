@@ -31,7 +31,7 @@
     "own":"",
     "customPlayers":{
         "values":["color","isHidden","glow", "xp"],
-        "_768e9910-57c9-5dce-b6d0-a607353c8123":["#40f5ff", true, true, true],
+        "768e9910-57c9-5dce-b6d0-a607353c8123":["#fc4c4c"],
         "blocked":[]
     },
     "codenames":{
