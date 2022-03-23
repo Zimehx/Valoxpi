@@ -32,7 +32,7 @@
     "customPlayers":{
         "values":["color","isHidden","glow", "xp"],
         "768e9910-57c9-5dce-b6d0-a607353c8123":["#fc4c4c"],
-        "52ef2b0b-41a5-5599-a9f1-223ddfbe8c8e":["#da36ff"],
+        "52ef2b0b-41a5-5599-a9f1-223ddfbe8c8e":["#000000"],
         "blocked":[]
     },
     "codenames":{
